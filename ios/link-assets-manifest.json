@@ -1,0 +1,61 @@
+{
+  "migIndex": 1,
+  "data": [
+    {
+      "path": "assets/fonts/abz.ttf",
+      "sha1": "3228dce6045041ccde6ce7a12ebbcc52bbc257bd"
+    },
+    {
+      "path": "assets/fonts/mulish.ttf",
+      "sha1": "219d6d99fa3cba281ac2f983b7dd7f36b98a9e02"
+    },
+    {
+      "path": "assets/fonts/nunito.ttf",
+      "sha1": "1f12fa4912fbe968c91818beb7b7b6399e97e87f"
+    },
+    {
+      "path": "assets/fonts/poppins.ttf",
+      "sha1": "645e04c53c6b5b35bce654a811ebce16af8aa721"
+    },
+    {
+      "path": "assets/fonts/robotoM.ttf",
+      "sha1": "25fc4386049ab15b18260b6786ee67181be32bd2"
+    },
+    {
+      "path": "assets/fonts/robotoR.ttf",
+      "sha1": "9d7fe27882872f2f69d0f38ffd91e6a87f89f2a5"
+    },
+    {
+      "path": "assets/fonts/robotoS.ttf",
+      "sha1": "ea82f629e02647730e7a5c9ba58ed2bb9fd8d353"
+    },
+    {
+      "path": "assets/fonts/titli.ttf",
+      "sha1": "1de05d92173edf1cf44696d3c8a5842ebbf1e75f"
+    },
+    {
+      "path": "assets/fonts/titliLight.ttf",
+      "sha1": "401ed0b1b7d9da4ee730467bcf4fcac8167f7993"
+    },
+    {
+      "path": "assets/fonts/titliRegular.ttf",
+      "sha1": "c1d91bd86751bd0a186ac0323dcf47de4d0c0981"
+    },
+    {
+      "path": "assets/fonts/ubuntu.ttf",
+      "sha1": "020aaec9cdeb59aa8ebd2e4c693527cddb2d1577"
+    },
+    {
+      "path": "assets/fonts/yanoneL.ttf",
+      "sha1": "c24d3af55c0356d7d128ac8f800bf5fb4f1b91ab"
+    },
+    {
+      "path": "assets/fonts/yanoneM.ttf",
+      "sha1": "5b9ce6728057819b2281b5f183c7d48674bdd48b"
+    },
+    {
+      "path": "assets/fonts/yanoneR.ttf",
+      "sha1": "163a2be3560780978dcaeeaef1a438f1bd0b38f5"
+    }
+  ]
+}
